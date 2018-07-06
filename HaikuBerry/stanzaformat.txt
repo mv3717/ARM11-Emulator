@@ -1,0 +1,56 @@
+@
+deter 1,adj 1,adj 2,noun 1,$NL,
+A,noun 1,verbi 1,into the,noun 1,$NL,
+Boom,noun 2,again
+@
+adj 2, noun 3,$NL,
+a,noun 1,verbi 1,adv 2,$NL,
+noun 2,adj 3
+@
+In the,adj 2,noun 1,$NL,
+deter 1,adj 2,adj 1,noun 3,$NL,
+verbt 2,adv 3
+@
+For,noun 1,and for,noun 1,$NL,
+I,verbt 1,a,noun 1,and,verbt 1,it,$NL,
+to,adj 2,noun 2
+@
+The,adj 2,noun 2,$NL,
+under the,adj 2,noun 2,$NL,
+the,noun 1,of,noun 2
+@
+The,adj 2,noun 2,$NL,
+although,deter 1,noun 2,verbt 2,$NL,
+deter 1,noun 1,adv 3
+@
+I was with that,noun 1,$NL,
+deter 1,noun 1,was,adj 1,and,adj 2,$NL,
+I,verbi 1,adverb 3
+@
+The,adj 2,noun 2,$NL,
+noun 2,in the,noun 1,while,noun 1,$NL,
+verbt 1,on,adj 2, noun 1,
+@
+adj 2,adj 2,noun 1,$NL,
+a,noun 3,of,noun 1,verbi 1,$NL,
+around,deter 1,noun 2
+@
+over,deter 1,adj 2,$NL,
+noun 2,noun 1,verbi 1,adv 3,$NL,
+deter 1,noun 2,adv 2
+@
+adj 2,and,adj 2,$NL,
+noun 2,verbt 2,deter 1,noun 2,$NL,
+noun 2,verbi 1,adv 2
+@
+The,adj 3,noun 1,$NL,
+verbt 2,adverb 3,from,noun 1,$NL,
+deter 1,adj 2,adj 1,noun 1
+@
+adj 1,noun 2,verbi 1,$NL,
+adv 2,verbt 2,from the,noun 1,$NL,
+verbt 2,into,noun 1
+@
+The,noun 2,verbt 2,$NL,
+the,noun 2,from the,noun 2,$NL,
+Conclusion:,noun 2

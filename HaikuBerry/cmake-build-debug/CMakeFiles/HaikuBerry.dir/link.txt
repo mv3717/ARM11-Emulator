@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/HaikuBerry.dir/grammar.c.o CMakeFiles/HaikuBerry.dir/haiku.c.o CMakeFiles/HaikuBerry.dir/main.c.o CMakeFiles/HaikuBerry.dir/parser.c.o  -o HaikuBerry 
